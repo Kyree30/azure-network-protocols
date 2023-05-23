@@ -37,6 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
+<b>Observe ICMP Traffic</b>
 <p>
 <img src="https://i.imgur.com/ckVd2MU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/CZc33lM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -51,6 +52,7 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 </p>
 <br />
 
+<b>Observe SSH Traffic</b>
 <p>
 <img src="https://i.imgur.com/VXJk1Rc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/M1S0StN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -65,6 +67,7 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 </p>
 <br />
 
+<b>Observe DHCP Traffic</b>
 <p>
 <img src="https://i.imgur.com/J2daKah.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -75,6 +78,7 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 </p>
 <br />
 
+<b>Observe DNS Traffic</b>
 <p>
 <img src="https://i.imgur.com/qGTucWv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -85,6 +89,7 @@ Retrieve the private IP address of the Ubuntu VM and attempt to ping it from wit
 </p>
 <br />
 
+<b>Observe RDP Traffic</b>
 <p>
 <img src="https://i.imgur.com/77EjsER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
